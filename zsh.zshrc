@@ -1,1 +1,3 @@
 
+ZSH_THEME="avit"
+CASE_SENSITIVE="true"
