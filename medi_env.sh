@@ -1,10 +1,11 @@
 #!/bin/bash
 
-brew cask install visual-studio-code
-
 # Genral Tools
 
 brew install git
+brew install zsh zsh-completions
+brew cask install visual-studio-code
+
 
 # iOS Development
 
