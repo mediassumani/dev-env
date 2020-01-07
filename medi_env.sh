@@ -1,11 +1,11 @@
 #!/bin/bash
 
-# Genral Tools
+# General Tools
 
 brew install git
 brew install zsh zsh-completions
 brew cask install visual-studio-code
-
+$ brew cask install postman
 
 # iOS Development
 
