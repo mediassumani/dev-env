@@ -18,7 +18,6 @@ sudo gem install fastlane -NV
 
 brew install node
 brew install npm
-brew install mongodb
 
 
 
