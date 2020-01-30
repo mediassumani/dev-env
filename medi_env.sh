@@ -6,6 +6,7 @@ brew install git
 brew install zsh zsh-completions
 brew cask install visual-studio-code
 brew cask install postman
+brew cask install iterm2
 
 # iOS Development
 
