@@ -1,5 +1,8 @@
 #!/bin/bash
 
+# Pre-install
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
+
 # General Tools
 
 brew install git
