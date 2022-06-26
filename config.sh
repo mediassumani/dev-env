@@ -10,7 +10,7 @@ brew install mas
 brew link mas
 
 # Mac Applications
-mas install 1147396723 # Whastapp
+
 mas install 497799835 # Xcode
 brew install --cask notion
 brew install --cask slack
@@ -18,6 +18,8 @@ brew install --cask github
 brew install --cask visual-studio
 brew cask install iterm2
 brew cask install postman
+brew install --cask figma
+brew install --cask zoom
 
 
 # iOS Development
