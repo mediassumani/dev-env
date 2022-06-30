@@ -15,6 +15,7 @@ mas install 497799835 # Xcode
 brew install --cask notion
 brew install --cask slack
 brew install --cask github
+brew install --cask gitify
 brew install --cask visual-studio
 brew cask install iterm2
 brew cask install postman
