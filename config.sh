@@ -21,6 +21,7 @@ brew cask install iterm2
 brew cask install postman
 brew install --cask figma
 brew install --cask zoom
+brew install --cask sf-symbols
 
 
 # iOS Development
